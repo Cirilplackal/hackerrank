@@ -1,3 +1,4 @@
+#Practice_Data-Structures_Arrays_Dynamic-Array
 def dynamicArray(n, queries):
     lastNumber = 0
     seqList=[];
